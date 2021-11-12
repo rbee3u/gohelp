@@ -1,0 +1,15 @@
+cyclop
+dupl
+exhaustivestruct
+forcetypeassert
+funlen
+gocognit
+gocyclo
+goerr113
+golint
+gomnd
+interfacer
+maligned
+nestif
+scopelint
+varnamelen
